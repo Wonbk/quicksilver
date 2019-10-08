@@ -1,0 +1,13 @@
+
+.ui.borderless.topmenu.menu {
+  background-color: none;
+  box-shadow: none;
+  border: none;
+  padding: 20px;
+}
+
+.ui.borderless.middlemenu.menu {
+  background-color: none;
+  box-shadow: none;
+  border: none;
+}
